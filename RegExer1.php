@@ -20,6 +20,9 @@
         box-sizing: border-box;
         padding:70px 30px;
         border-radius: 10px;
+
+
+        
     }
     
     </style>
